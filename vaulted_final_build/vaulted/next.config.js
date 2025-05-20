@@ -1,0 +1,1 @@
+// Configuration Next.js
